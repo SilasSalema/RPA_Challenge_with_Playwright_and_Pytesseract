@@ -1,0 +1,1 @@
+# RPA_Challenge_with_Playwright_and_Pytesseract
